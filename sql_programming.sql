@@ -2,7 +2,7 @@
 create database akash;
 use akash;
 create table student(id int primary key, name varchar(255), dept varchar(255), cgpa int);
-insert into student (id, name, dept, cgpa) values 
+insert into student (id, name, defpt, cgpa) values 
 (1, "akash", "cse", 9),
 (2, "santanu", "cse", 8),
 (3, "tina", "civil", 7),
