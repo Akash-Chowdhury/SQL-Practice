@@ -7,7 +7,7 @@ insert into student (id, name, dept, cgpa) values
 (2, "santanu", "cse", 8),
 (3, "tina", "civil", 7),
 (4, "krishanu", "eie", 5),
-(5, "nikita", "civil", 6);
+(5, "nikita", "civil", 7);
 
 
 select * from student;
